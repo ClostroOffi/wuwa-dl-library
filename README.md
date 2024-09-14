@@ -26,7 +26,9 @@ ___
 ## How to use download the files?
 
 Use the [Wuthering Waves Download Tool](https://github.com/ClostroOffi/wuwa-dl-tool).
+
 Edit "RESOURCE_URL" & "CDN_BASE_URL" arguments with the Resources & Resources Base Path URLs.
+
 Start main.py, and you're good to go.
 
 ___
