@@ -13,13 +13,20 @@ ___
 | 0.8.2 | Windows | Beta | CN | TBD | TBD | TBD |
 | 0.8.2 | Windows | Beta | CN | TBD | TBD | TBD |
 | 0.9.0 | Windows | Beta | OS | TBD | TBD | TBD |
-| 0.10.0 | Windows | Beta | OS | [resources.json](https://hw-pcdownload-qcloud.aki-game.net/pcstarter/prod/game/G153/0.10.0/qZGzaUF5yMLEQzOfuJdeELCAp5mC88tO/resource.json) | [Resources Base Path](https://hw-pcdownload-qcloud.aki-game.net/pcstarter/prod/game/G153/0.10.0/qZGzaUF5yMLEQzOfuJdeELCAp5mC88tO/zip/) | TBD |
+| 0.10.0 | Windows | Beta | OS | [resources.json](https://hw-pcdownload-qcloud.aki-game.net/pcstarter/prod/game/G153/0.10.0/qZGzaUF5yMLEQzOfuJdeELCAp5mC88tO/resource.json) | [Resources Base Path](https://hw-pcdownload-qcloud.aki-game.net/pcstarter/prod/game/G153/0.10.0/qZGzaUF5yMLEQzOfuJdeELCAp5mC88tO/zip/) | Active |
 | 1.0.2 | Windows | Release | CN | TBD | TBD | TBD |
 | 1.1.0 | Windows | Release | CN | TBD | TBD | TBD |
 | 1.1.0 | Windows | Release | OS | TBD | TBD | TBD |
 | 1.2.0 | Windows | Beta | CN | TBD | TBD | TBD |
 | 1.2.0 | Windows | Beta | CN (2) | TBD | TBD | TBD |
 | 1.2.0 | Windows | Beta | OS | TBD | TBD | TBD |
+
+___
+#How to use download the files?
+
+Use the [Wuthering Waves Download Tool](https://github.com/ClostroOffi/wuwa-dl-tool).
+Edit "RESOURCE_URL" & "CDN_BASE_URL" arguments with the Resources & Resources Base Path URLs.
+Start main.py, and you're good to go.
 
 ___
 Special Thanks : 
