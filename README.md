@@ -1,6 +1,6 @@
-# Wuthering Waves Download Script
+# Wuthering Waves Download Library
 
-A Python script allowing you to download files from Wuthering Waves.
+Library of Wuthering Waves Release and Beta clients.
 
 ___
 
