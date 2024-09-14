@@ -16,9 +16,10 @@ ___
 | 0.10.0 | Windows | Beta | OS | TBD | TBD |
 | 1.0.2 | Windows | Release | CN | TBD | TBD |
 | 1.1.0 | Windows | Release | CN | TBD | TBD |
-
+| 1.1.0 | Windows | Release | OS | TBD | TBD |
 | 1.2.0 | Windows | Beta | CN | TBD | TBD |
 | 1.2.0 | Windows | Beta | CN (2) | TBD | TBD |
+| 1.2.0 | Windows | Beta | OS | TBD | TBD |
 
 ___
 Special Thanks : 
