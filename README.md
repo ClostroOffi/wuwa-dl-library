@@ -19,7 +19,8 @@ ___
 | 1.1.0 | Windows | Release | OS | TBD | TBD | TBD |
 | 1.2.0 | Windows | Beta | CN | TBD | TBD | TBD |
 | 1.2.0 | Windows | Beta | CN (2) | TBD | TBD | TBD |
-| 1.2.0 | Windows | Beta | OS | TBD | TBD | TBD |
+| 1.2.0 | Windows | Release | CN | TBD | TBD | TBD |
+| 1.2.0 | Windows | Release | OS | TBD | TBD | TBD |
 
 ___
 #How to use download the files?
