@@ -21,7 +21,7 @@ ___
 | 1.2.0 | Windows | Release | OS | [resources.json](https://hw-pcdownload-qcloud.aki-game.net/pcstarter/prod/game/G153/1.2.0/8ih6NmJpkHew53DyO981zQdAYjvp8Q8O/resource.json) | [Resources Base Path](https://hw-pcdownload-qcloud.aki-game.net/pcstarter/prod/game/G153/1.2.0/8ih6NmJpkHew53DyO981zQdAYjvp8Q8O/zip) | Active |
 
 ___
-## How to use download the files?
+## How to download the files?
 
 Use the [Wuthering Waves Download Tool](https://github.com/ClostroOffi/wuwa-dl-tool).
 
