@@ -4,8 +4,8 @@ Library of Wuthering Waves Release and Beta clients.
 
 ___
 
-| Version | OS | Beta or Release? | Server |                                Resources URL                                 | Resources Base Path | Status |
-|:-------:|:--:|:----:|:-------:|:---------------------------------------------------------------------------------------:|:-------------------:|:------:|
+| Version | OS | Beta or Release? | Server |                                Resources URL                                 | Resources Base Path URL | Status |
+|:-------:|:--:|:----:|:-------:|:---------------------------------------------------------------------------------------:|:-----------------------:|:------:|
 | 0.1.0 | Windows | Beta | CN | TBD | TBD | TBD |
 | 0.5.0 | Windows | Beta | CN | [resources.json](https://pcdownload-wangsu.aki-game.com/pcstarter/prod/game/G152/0.5.0/O3ZYlnyMFIUazvvZUsLJDMNLwvkPtBHq/resource.json) *(doesn't contain much from the game)* | [Resources Base Path](https://pcdownload-wangsu.aki-game.com/pcstarter/prod/game/G152/0.5.0/O3ZYlnyMFIUazvvZUsLJDMNLwvkPtBHq/zip) | Active |
 | 0.7.0 | Windows | Beta | CN | [resources.json](https://prod-cn-alicdn-gamestarter.kurogame.com/pcstarter/prod/game/G152/0.7.0/flsaxwdbqerujify/resource.json) | [Resources Base Path](https://prod-cn-alicdn-gamestarter.kurogame.com/pcstarter/prod/game/G152/0.7.0/flsaxwdbqerujify/resource.json) | Active |
