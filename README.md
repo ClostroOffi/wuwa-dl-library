@@ -23,7 +23,7 @@ ___
 | 1.2.0 | Windows | Release | OS | TBD | TBD | TBD |
 
 ___
-#How to use download the files?
+## How to use download the files?
 
 Use the [Wuthering Waves Download Tool](https://github.com/ClostroOffi/wuwa-dl-tool).
 Edit "RESOURCE_URL" & "CDN_BASE_URL" arguments with the Resources & Resources Base Path URLs.
