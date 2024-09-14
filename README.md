@@ -11,7 +11,7 @@ ___
 | 0.7.0 | Windows | Beta | CN | TBD | TBD | TBD |
 | 0.8.0 | Windows | Beta | CN | TBD | TBD | TBD |
 | 0.8.2 | Windows | Beta | CN | TBD | TBD | TBD |
-| 0.8.2 | Windows | Beta | CN | TBD | TBD | TBD |
+| 0.8.2 | Windows | Beta | CN | [resources.json](https://prod-cn-alicdn-gamestarter.kurogame.com/pcstarter/prod/game/G152/0.8.2/bueuxk5lp668zl1r/resource.json) | [Resources Base Path](https://prod-cn-alicdn-gamestarter.kurogame.com/pcstarter/prod/game/G152/0.8.2/bueuxk5lp668zl1r/zip)| Active |
 | 0.9.0 | Windows | Beta | OS | [resources.json](https://hw-pcdownload-qcloud.aki-game.net/pcstarter/prod/game/G153/0.9.0/jpbmm89ylh59n35a/resource.json) | [Resources Base Path](https://hw-pcdownload-qcloud.aki-game.net/pcstarter/prod/game/G153/0.9.0/jpbmm89ylh59n35a/zip) | Active |
 | 0.10.0 | Windows | Beta | OS | [resources.json](https://hw-pcdownload-qcloud.aki-game.net/pcstarter/prod/game/G153/0.10.0/qZGzaUF5yMLEQzOfuJdeELCAp5mC88tO/resource.json) | [Resources Base Path](https://hw-pcdownload-qcloud.aki-game.net/pcstarter/prod/game/G153/0.10.0/qZGzaUF5yMLEQzOfuJdeELCAp5mC88tO/zip/) | Active |
 | 1.0.2 | Windows | Release | CN | TBD | TBD | TBD |
