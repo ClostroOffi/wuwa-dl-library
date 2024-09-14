@@ -13,7 +13,7 @@ ___
 | 0.8.2 | Windows | Beta | CN | TBD | TBD | TBD |
 | 0.8.2 | Windows | Beta | CN | TBD | TBD | TBD |
 | 0.9.0 | Windows | Beta | OS | TBD | TBD | TBD |
-| 0.10.0 | Windows | Beta | OS | TBD | resources.json[https://hw-pcdownload-qcloud.aki-game.net/pcstarter/prod/game/G153/0.10.0/qZGzaUF5yMLEQzOfuJdeELCAp5mC88tO/resource.json] | TBD |
+| 0.10.0 | Windows | Beta | OS | TBD | [resources.json](https://hw-pcdownload-qcloud.aki-game.net/pcstarter/prod/game/G153/0.10.0/qZGzaUF5yMLEQzOfuJdeELCAp5mC88tO/resource.json) | TBD |
 | 1.0.2 | Windows | Release | CN | TBD | TBD | TBD |
 | 1.1.0 | Windows | Release | CN | TBD | TBD | TBD |
 | 1.1.0 | Windows | Release | OS | TBD | TBD | TBD |
