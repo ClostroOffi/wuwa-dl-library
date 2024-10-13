@@ -21,6 +21,7 @@ ___
 | 1.2.0 | Windows | Release | OS | [resources.json](https://hw-pcdownload-qcloud.aki-game.net/pcstarter/prod/game/G153/1.2.0/8ih6NmJpkHew53DyO981zQdAYjvp8Q8O/resource.json) | [Resources Base Path](https://hw-pcdownload-qcloud.aki-game.net/pcstarter/prod/game/G153/1.2.0/8ih6NmJpkHew53DyO981zQdAYjvp8Q8O/zip/) | Active |
 | 1.3.0 | Windows | Release | CN | [resources.json](https://pcdownload-huoshan.aki-game.com/pcstarter/prod/game/G152/1.3.0/xZnXWq0k2gcdGmGs9XJgVaNGxD9OG2Ep/resource.json) | [Resources Base Path](https://pcdownload-huoshan.aki-game.com/pcstarter/prod/game/G152/1.3.0/xZnXWq0k2gcdGmGs9XJgVaNGxD9OG2Ep/zip/) | Active |
 | 1.3.0 | Windows | Release | OS | [resources.json](https://hw-pcdownload-qcloud.aki-game.net/pcstarter/prod/game/G153/1.3.0/GKgoDGMrlhitpRtKSl8QSKGremJLL8bM/resource.json) | [Resources Base Path](https://hw-pcdownload-qcloud.aki-game.net/pcstarter/prod/game/G153/1.3.0/GKgoDGMrlhitpRtKSl8QSKGremJLL8bM/zip/) | Active |
+| 1.4.0 | Windows | Beta | CN | [resources.json](https://pcdownload-huoshan.aki-game.com/pcstarter/prod/game/G152/1.4.0/iQPhVvIx0vVjUoykmdLNMSHN0sfNWeij/resource.json) | [Resources Base Path](https://pcdownload-huoshan.aki-game.com/pcstarter/prod/game/G152/1.4.0/iQPhVvIx0vVjUoykmdLNMSHN0sfNWeij/zip/) | Active |
 ___
 ## How to download the files?
 
@@ -32,7 +33,7 @@ Start main.py, and you're good to go.
 
 ___
 Special Thanks : 
-- [Xavo95](https://github.com/xavo95) (CN Beta 0.5.0, CN Beta 0.7.0, CN Beta 0.8.0, CN Beta 0.8.2, OS Beta 0.9.0, CN Beta 0.10.0, Live CN 1.0.2, Live CN 1.1.0, Live CN 1.2.0, Live CN2 1.2.0, CN Beta 1.1.0, Live OS 1.1.0, CN Beta 1.1.1, CN Beta 1.2.0, Live OS 1.2.0, CN Beta 1.2.1, CN Beta 1.3.0 URLs)
+- [Xavo95](https://github.com/xavo95) (CN Beta 0.5.0, CN Beta 0.7.0, CN Beta 0.8.0, CN Beta 0.8.2, OS Beta 0.9.0, CN Beta 0.10.0, Live CN 1.0.2, Live CN 1.1.0, Live CN 1.2.0, Live CN2 1.2.0, CN Beta 1.1.0, Live OS 1.1.0, CN Beta 1.1.1, CN Beta 1.2.0, Live OS 1.2.0, CN Beta 1.2.1, CN Beta 1.3.0, CN Beta 1.4.0 URLs)
 
 ___
 If you find an undocumented / unknown resources or resources base path link: feel free to open a pull request. 
